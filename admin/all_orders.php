@@ -15,7 +15,7 @@ session_start();
     <meta name="author" content="">
     <!-- Favicon icon -->
 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
-    <title>FoodPicky - Admin Dashboard</title>
+    <title>ADMIN</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -48,7 +48,7 @@ session_start();
                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
                         <!--End Logo icon -->
                         <!-- Logo text -->
-                        <span><b>Food Picky</b></span>
+                        <span><b>MYFOOD</b></span>
                     </a>
                 </div>
                 <!-- End Logo -->
@@ -91,7 +91,7 @@ session_start();
                             <a class="nav-link dropdown-toggle text-muted  " href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="images/users/5.jpg" alt="user" class="profile-pic" /></a>
                             <div class="dropdown-menu dropdown-menu-right animated zoomIn">
                                 <ul class="dropdown-user">
-                                   <li><a href="logout.php"><i class="fa fa-power-off"></i> LogOut</a></li>
+                                   <li><a href="logout.php"><i class="fa fa-power-off"></i> Đăng Xuất</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -280,7 +280,7 @@ session_start();
 			
 			
             <!-- footer -->
-            <footer class="footer"> © 2022 All rights reserved. Made with &#x1F49C; by <b><a href="https://www.youtube.com/channel/UC4_6-VSWBw_QHMyjrDDEvVQ"> GPW</a></b> Team. </footer>
+            <footer class="footer"> © 2022 All rights reserved. Made with &#x1F49C; by <b>B1910012</b></footer>
             <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->

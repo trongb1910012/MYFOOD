@@ -74,7 +74,7 @@ if(isset($_POST['submit'] ))
     <meta name="author" content="">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
-    <title>MY.FOOD-ADMIN</title>
+    <title>ADMIN</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -100,7 +100,7 @@ if(isset($_POST['submit'] ))
                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
                         <!--End Logo icon -->
                         <!-- Logo text -->
-                        <span><b>MY.FOOD</b></span>
+                        <span><b>MYFOOD</b></span>
                     </a>
                 </div>
                 <!-- End Logo -->

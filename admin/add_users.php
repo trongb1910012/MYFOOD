@@ -91,7 +91,7 @@ if(isset($_POST['submit'] ))
     <meta name="author" content="">
     <!-- Favicon icon -->
 	<link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
-    <title>FoodPicky - Admin Dashboard</title>
+    <title>ADMIN</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -123,7 +123,7 @@ if(isset($_POST['submit'] ))
                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
                         <!--End Logo icon -->
                         <!-- Logo text -->
-                        <span><b>Food Picky</b></span>
+                        <span><b>MYFOOD</b></span>
                     </a>
                 </div>
                 <!-- End Logo -->
@@ -351,7 +351,7 @@ if(isset($_POST['submit'] ))
             </div>
             <!-- End Container fluid  -->
             <!-- footer -->
-            <footer class="footer"> © 2022 All rights reserved. Made with &#x1F49C; by <b><a href="https://www.youtube.com/channel/UC4_6-VSWBw_QHMyjrDDEvVQ"> GPW</a></b> Team. </footer>
+            <footer class="footer"> © 2022 All rights reserved. Made with &#x1F49C; by <b>B1910012</b></footer>
             <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->

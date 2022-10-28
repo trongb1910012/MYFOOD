@@ -86,7 +86,7 @@ if(isset($_POST['submit'] ))
                         <b><img src="images/foodpicky.png" alt="homepage" class="dark-logo" width = "25px"/></b>
                         <!--End Logo icon -->
                         <!-- Logo text -->
-                        <span><b>Food Picky</b></span>
+                        <span><b>MY.FOOD</b></span>
                     </a>
                 </div>
                 <!-- End Logo -->
@@ -129,7 +129,7 @@ if(isset($_POST['submit'] ))
                             <a class="nav-link dropdown-toggle text-muted  " href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="images/users/5.jpg" alt="user" class="profile-pic" /></a>
                             <div class="dropdown-menu dropdown-menu-right animated zoomIn">
                                 <ul class="dropdown-user">
-                                    <li><a href="logout.php"><i class="fa fa-power-off"></i> LogOut</a></li>
+                                    <li><a href="logout.php"><i class="fa fa-power-off"></i> Đăng Xuất</a></li>
                                 </ul>
                             </div>
                         </li>

@@ -37,7 +37,7 @@ if (strlen($_SESSION['user_id']) == -1) {
     <meta name="author" content="">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="images/foodpicky.png">
-    <title>MỲ.FOOD-ADMIN</title>
+    <title>ADMIN</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/lib/bootstrap/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
