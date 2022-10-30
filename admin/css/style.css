@@ -773,7 +773,7 @@ h6.h1 {
   top: -10px;
   width: 6px;
 }
-@-moz-keyframes heartbit {
+@keyframes heartbit {
   0% {
     -moz-transform: scale(0);
     opacity: 0.0;
@@ -901,7 +901,7 @@ h6.h1 {
   color: #252525;
 }
 .no-select-arrow {
-  -moz-appearance: none !important;
+  appearance: none !important;
   -webkit-appearance: none !important;
   border: 1px solid #e7e7e7;
 }
@@ -1254,7 +1254,7 @@ h6.h1 {
   z-index: 10;
   border: 5px solid #ef5350;
   border-radius: 70px;
-  -moz-animation: heartbit 1s ease-out;
+  animation: heartbit 1s ease-out;
   -moz-animation-iteration-count: infinite;
   -o-animation: heartbit 1s ease-out;
   -o-animation-iteration-count: infinite;
@@ -1482,7 +1482,7 @@ textarea {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-    -webkit-align-items: center;
+    align-items: center;
   }
   .header .top-navbar .navbar-collapse {
     display: -webkit-box;
@@ -2006,7 +2006,7 @@ textarea {
 .pagination-split li {
   margin-left: 5px;
   display: inline-block;
-  float: left;
+  display: left;
 }
 .pagination-split li:first-child {
   margin-left: 0;
@@ -2111,10 +2111,7 @@ textarea {
   stroke-linejoin: round;
   stroke-linecap: round;
   stroke-dasharray: 500%;
-  stroke-dasharray: 0 /;
-  /* fixes IE prob */
-  stroke-dashoffset: 0 /;
-  /* fixes IE prob */
+
   -webkit-animation: am-draw 40s;
   animation: am-draw 40s;
 }
@@ -4042,7 +4039,7 @@ table.dataTable thead .sorting::after {
   cursor: pointer;
   transition: all 0.2s linear;
   text-align: center;
-  float: right;
+  display: right;
 }
 .chat-widget .bottom_wrapper .send_message .text {
   font-size: 18px;
@@ -4093,7 +4090,7 @@ table.dataTable thead .sorting::after {
 }
 .weather-one h2 {
   display: inline-block;
-  float: right;
+  display: right;
   font-size: 48px;
   color: #ffffff;
 }
@@ -4194,7 +4191,7 @@ table.dataTable thead .sorting::after {
 }
 .invoice-logo img {
   display: block;
-  vertical-align: top;
+  display: top;
   width: 50px;
 }
 /**
@@ -5201,7 +5198,7 @@ label {
 }
 .mail-list a {
   font-family: "Roboto", sans-serif;
-  vertical-align: middle;
+  display: middle;
   color: #797979;
   padding: 10px 15px;
   display: block;
