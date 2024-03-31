@@ -11,7 +11,7 @@ Install XAMPP
 
 1. Clone repository
 2. Copy project folder into xampp/htdocs
-3. At PHP, create a new database with name "foodpicky_db"
+3. At phpmyadmin, create a new database with name "foodpicky_db"
 4. Import Database/foodpicky_db2.sql file into foodpicky_db database
 
 ## Running the app
