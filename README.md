@@ -25,28 +25,28 @@ Install XAMPP
 
 ### Login
 
-![Login](image/login.png)
+![Login](images/img/login.png)
 
 ### Sign up
 
-![SignUp](image/signup.png)
+![SignUp](images/img/signup.png)
 
 ### Home page
 
-![Home](image/homepage.png)
+![Home](images/img/homepage.png)
 
 ### Category List
 
-![CateList](image/categorylist.png)
+![CateList](images/img/categorylist.png)
 
 ### Product List
 
-![ProductList](image/productlist.png)
+![ProductList](images/img/productlist.png)
 
 ### Order List
 
-![OrderList](image/orderlist.png)
+![OrderList](images/img/orderlist.png)
 
 ### Admin dashboard
 
-![Admin dashboard](image/admindashboard.png)
+![Admin dashboard](images/img/admindashboard.png)
